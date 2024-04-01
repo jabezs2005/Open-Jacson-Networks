@@ -1,6 +1,5 @@
-
-    NAME:AFIFA.A
-    REGISTER NO:212223040008
+## NAME:KIRANBALAGI .H
+## REGISTER NO:212223040096
 # EX 6: Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
